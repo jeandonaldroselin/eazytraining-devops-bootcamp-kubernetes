@@ -10,7 +10,9 @@ Vous trouverez ci-dessous l'ensemble des réalisations concernant le module.
 
 #### TP3 : Gestion du réseau dans un cluster.
 
-[Accéder au TP](./tp3/)
+[Accéder au TP 3](./tp3/)
+
+[Accéder au TP 3-ingress](./tp3-ingress/)
 
 
 ----
