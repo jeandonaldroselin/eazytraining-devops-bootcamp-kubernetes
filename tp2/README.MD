@@ -35,7 +35,7 @@ Vous verrez dans le terminal le contenu suivant qui s'affiche :
 En executant la commande suivante : 
 
 ```bash
-kubectl port-forward simple-webapp-color -f 8080:8080
+kubectl port-forward simple-webapp-color 8080:8080
 ```
 
 Ouvrir un navigateur et renseigner l'url [http://IP-MACHINE:8080](http://IP-MACHINE:8080), normalement ce contenu s'affiche :
