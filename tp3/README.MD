@@ -36,7 +36,7 @@ Vous devriez obtenir le contenu suivant :
 
 ![2-k8s-service.png](2-k8s-service.png)
 
-#### Étape 3 : Créer et déployer un pod pour un site bleu (pod-red.yaml)
+#### Étape 3 : Créer et déployer un pod pour un site rouge (pod-red.yaml)
 
 Il s'agit de créer un fichier qui contient la définition d'un pod tagué "app:web" basé sur l'image docker "mmumshad/simple-webapp-color" avec la variable d'environnement APP_COLOR à red. De cette manière un simple site s'affichera avec un fond rouge.
 
